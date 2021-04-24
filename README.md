@@ -1,5 +1,7 @@
 # Android Navigation codelab
 
+This is the solution for Android Navigation codelab. This project can be used as a guide for implementing Navigation Components in any new Android Project.
+
 Content: https://codelabs.developers.google.com/codelabs/android-navigation/
 
 License
